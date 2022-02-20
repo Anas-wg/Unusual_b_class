@@ -6,7 +6,10 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: #424242;
 }
+
+/* Navigation Bar */
 
 .nav_bar {
   background-color: #232323;
@@ -49,4 +52,17 @@ body {
 a {
   text-decoration: none;
   color: inherit;
+}
+
+.title_holder {
+  font-size: 48px;
+  text-align: center;
+  color: white;
+
+}
+
+.tableauPlaceholder {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 70px;
 }
